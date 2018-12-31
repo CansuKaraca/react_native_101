@@ -1,2 +1,2 @@
 # react_native_101
-React native ornegi
+Burada ki kodlar react da component yapısına uygun olarak yapılmış başlangıç seviyesinde bir örnektir.
